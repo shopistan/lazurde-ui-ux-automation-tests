@@ -1,0 +1,27 @@
+{
+  "name": "automation-tests",
+  "version": "1.0.0",
+  "description": "This repo contains the UI/UX tests for lazurde storefront",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shopistan/lazurde-ui-ux-automation-tests.git"
+  },
+  "keywords": [
+    "lazurde",
+    "automation",
+    "tests"
+  ],
+  "author": "Adil Peter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shopistan/lazurde-ui-ux-automation-tests/issues"
+  },
+  "homepage": "https://github.com/shopistan/lazurde-ui-ux-automation-tests#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
